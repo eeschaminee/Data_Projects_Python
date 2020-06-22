@@ -1,4 +1,4 @@
-# Data-Python
+# Data_Projects_Python
 
 Little projects with datasets from Kaggle to explore pandas, numpy, matplotlib and seaborn.
 
