@@ -1,2 +1,4 @@
 # Data-Python
-Little data projects based on Dataquest projects
+
+Little projects with datasets from Kaggle to explore pandas, numpy, matplotlib and seaborn.
+(Based on projects from Dataquest)
