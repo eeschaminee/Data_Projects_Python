@@ -12,6 +12,10 @@ Little projects with datasets from Kaggle to explore pandas, numpy, matplotlib a
 * Gender_Gap_College_Degrees
 
   ⋅⋅⋅Plotting multiple subplots with matplotlib
+  
+* Hacker_News_Stories
+
+  ⋅⋅⋅JSON, lambda functions, list comprehensions
 
 * Hacker_News_Titles
 
