@@ -1,6 +1,6 @@
 # Data_Projects_Python
 
-Little projects with datasets from Kaggle to explore pandas, numpy, matplotlib and seaborn.
+Little projects with datasets from e.g. Kaggle to explore pandas, numpy, matplotlib and seaborn.
 
 * Employee_Exit_Surveys
 
