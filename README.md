@@ -13,6 +13,9 @@ Little projects with datasets from Kaggle to explore pandas, numpy, matplotlib a
 
   ⋅⋅⋅Plotting multiple subplots with matplotlib
 
+* Hacker_News_Titles
+
+  ⋅⋅⋅Small exercises with Regex
 
 * World_Happiness_Reports_15_17
 
