@@ -21,6 +21,12 @@ Little projects with datasets from e.g. Kaggle to explore pandas, numpy, matplot
 
   ⋅⋅⋅Small exercises with Regex
   
+* Star_Wars_Survey
+
+  ⋅⋅⋅Cleaning and mapping column values in pandas
+  
+  ⋅⋅⋅Visualizing summary statistics
+  
 * Vehicle_Crashes_2018
 
   ⋅⋅⋅Identify missing data using both code and visualizations (Seaborn)
