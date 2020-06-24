@@ -20,6 +20,12 @@ Little projects with datasets from e.g. Kaggle to explore pandas, numpy, matplot
 * Hacker_News_Titles
 
   ⋅⋅⋅Small exercises with Regex
+  
+* Vehicle_Crashes_2018
+
+  ⋅⋅⋅Identify missing data using both code and visualizations (Seaborn)
+  
+  ⋅⋅⋅Resolve missing data using imputation and external data
 
 * World_Happiness_Reports_15_17
 
