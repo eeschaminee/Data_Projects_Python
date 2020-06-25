@@ -1,39 +1,39 @@
 # Data_Projects_Python
 
-Little projects with datasets from e.g. Kaggle to explore pandas, numpy, matplotlib and seaborn.
+Small projects with datasets from e.g. Kaggle to explore pandas, numpy, matplotlib and seaborn.
 
-* Employee_Exit_Surveys
+* **Employee_Exit_Surveys**
 
   ⋅⋅⋅Cleaning and analyzing dataset
   
   ⋅⋅⋅Using Pandas and simple plots with matplotlib
 
 
-* Gender_Gap_College_Degrees
+* **Gender_Gap_College_Degrees**
 
   ⋅⋅⋅Plotting multiple subplots with matplotlib
   
-* Hacker_News_Stories
+* **Hacker_News_Stories**
 
   ⋅⋅⋅JSON, lambda functions, list comprehensions
 
-* Hacker_News_Titles
+* **Hacker_News_Titles**
 
   ⋅⋅⋅Small exercises with Regex
   
-* Star_Wars_Survey
+* **Star_Wars_Survey**
 
   ⋅⋅⋅Cleaning and mapping column values in pandas
   
   ⋅⋅⋅Visualizing summary statistics
   
-* Vehicle_Crashes_2018
+* **Vehicle_Crashes_2018**
 
   ⋅⋅⋅Identify missing data using both code and visualizations (Seaborn)
   
   ⋅⋅⋅Resolve missing data using imputation and external data
 
-* World_Happiness_Reports_15_17
+* **World_Happiness_Reports_15_17**
 
   ⋅⋅⋅Data Cleaning with Pandas and NumPy(missing and duplicate values)
 
